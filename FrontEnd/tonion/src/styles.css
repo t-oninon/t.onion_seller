@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+@import "/src/assets/css/sb-admin-2.css";
+@import "/src/assets/css/style.css";
+@import "/src/assets/css/fontawesome/css/all.min.css";
+
+
+:root {
+    scroll-behavior: smooth;
+    --color-default: #391b08;
+    /* --color-primary: #a0e4cb; */
+    --color-primary: #c37e49;
+    --color-secondary: #995b34;
+    --color-premium: #995b34;
+    --color-thumb: #a3a19f;
+    --color-white: #fff;
+    --color-light: #fff9f5;
+    --color-gray: #e6e6e6;
+    --color-shadow: #472D2D60;
+    --color-slider: #eadcd1;
+    --color-border: #7c6b5d48;
+    --color-red: #e1182c;
+    --color-blue: #33d3fb;
+    /* --color-blue: #1ba8ff; */
+    --color-yellow: #f3c250;
+    --color-green: #41bf48;
+    --color-black: #181818;
+  }
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
